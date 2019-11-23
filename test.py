@@ -6,10 +6,12 @@
 # @File: test.py
 
 import sys,os
+import datetime
 
 
 def run():
     print("you can run fast.")
+
 
 if __name__ == '__main__':
     run()
