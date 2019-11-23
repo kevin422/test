@@ -5,8 +5,12 @@
 # @Email:904509617@qq.com
 # @File: test.py
 
+import sys,os
+
+
 def run():
     print("you can run fast.")
 
 if __name__ == '__main__':
     run()
+    print(os.environ)
